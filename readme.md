@@ -18,12 +18,19 @@ Floods occur locally and while their origin can often be attributed to natural c
 Globaly, drownings due to floods are the 3rd leading cause of unintentional injury death. it is estimated that approximately 236,000 people (2019) die due to drowning each year. Most of these deaths are accounted for by low- and middle-income countries, where people forced to live in high risk areas or heavy rainfalls have drastically increased in recent decades. Most of these fatalities occur in the WHO Western Pacific and the WHO South-East Asia Region.
 
 ---
+
 ##Project Overview
+
+
 This Repository documents a methodology for **automated flood mapping** using **Sentinel-1 SAR imagery** and **SRTM elevation data** during the August 2024 floods in Tripura, India.
 
+
 **Key Innovation**:
--**Physics-driven- thresolds** (VV < -14.2 dB, VV/VH ratio > 0 dB) without ground truth
--**Unsupervised segmentation** for water-body extraction
--**Elevation-risk integration** (25% of tripura < 30m = high vulnerability)
+
+- **Physics-driven- thresolds** (VV < -14.2 dB, VV/VH ratio > 0 dB) without ground truth
+
+- **Unsupervised segmentation** for water-body extraction
+
+- **Elevation-risk integration** (25% of tripura < 30m = high vulnerability)
 
 ---
