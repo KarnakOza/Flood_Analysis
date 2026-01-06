@@ -13,3 +13,5 @@ Globaly, drownings due to floods are the 3rd leading cause of unintentional inju
 
 
 ![SAR](https://img.shields.io/badge/SAR-Sentinel--1-orange)
+![Flood](https://img.shields.io/badge/Flood-Mapping-blue)
+![OpenScience](https://img.shields.io/badge/Open-Science-green)
