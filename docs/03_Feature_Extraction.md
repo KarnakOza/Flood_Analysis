@@ -18,4 +18,6 @@ Tha radar backscatter over ocean surfaces varies in relation to the local incide
 
 ![image alt](https://github.com/KarnakOza/Flood_Analysis/blob/93aa8a41875b8855aabace3d58fa49f0a2e8bc95/docs/tilt_modulation.jpg)
 
+![image alit](https://github.com/KarnakOza/Flood_Analysis/blob/e3b40347dd57c260281605ed1dad97ad1fad9ba2/docs/bragg.jpg)
+
 
