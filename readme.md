@@ -11,3 +11,5 @@ Floods occur locally and while their origin can often be attributed to natural c
 
 Globaly, drownings due to floods are the 3rd leading cause of unintentional injury death. it is estimated that approximately 236,000 people (2019) die due to drowning each year. Most of these deaths are accounted for by low- and middle-income countries, where people forced to live in high risk areas or heavy rainfalls have drastically increased in recent decades. Most of these fatalities occur in the WHO Western Pacific and the WHO South-East Asia Region.
 
+
+![SAR](https://img.shields.io/badge/SAR-Sentinel--1-orange)
