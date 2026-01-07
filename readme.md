@@ -25,6 +25,9 @@ Globaly, drownings due to floods are the 3rd leading cause of unintentional inju
 This Repository documents a methodology for **automated flood mapping** using **Sentinel-1 SAR imagery** and **SRTM elevation data** during the August 2024 floods in Tripura, India.
 
 
+![image alt](https://github.com/KarnakOza/Flood_Analysis/blob/37f3849f53d0ab19bc104f066c5f32f7b725a105/results/Screenshot%202025-03-17%20180807.png)
+
+
 **Key Innovation**:
 
 - **Physics-driven- thresolds** (VV < -14.2 dB, VV/VH ratio > 0 dB) without ground truth
