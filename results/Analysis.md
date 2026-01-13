@@ -6,3 +6,9 @@
 - Lower backscatter values over flooded regions, making water bodies appear darker.
 - More effective in detecting open water areas compared to vegetated regions.
   
+![image alt](https://github.com/KarnakOza/Flood_Analysis/blob/0e0c34c45510b6919dab109c573988562167e109/figures/backscatter_histogram.png)
+
+
+As seen the drop of backscatter intensity from pre to post.
+
+![image alt](https://github.com/KarnakOza/Flood_Analysis/blob/0e0c34c45510b6919dab109c573988562167e109/figures/backscatter_histogram_linear.png)
