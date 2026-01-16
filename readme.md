@@ -37,3 +37,5 @@ This Repository documents a methodology for **automated flood mapping** using **
 - **Elevation-risk integration** (25% of tripura < 30m = high vulnerability)
 
 ---
+
+![image alt](https://github.com/KarnakOza/Flood_Analysis/blob/716472cba0525adb52d84f600f3b16ad0ab130b3/figures/GEP%20IMAGES.jpg)
