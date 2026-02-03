@@ -26,3 +26,9 @@ As seen the drop of backscatter intensity from pre to post.
 
 
 ![image alt](https://github.com/KarnakOza/Flood_Analysis/blob/c7f77367419c9ef70c49723c56df8c8d31caacd9/figures/segmentation.png) 
+
+
+
+
+
+![image alt](https://github.com/KarnakOza/Flood_Analysis/blob/3f1c74cd8e03a9c44237fea677a9f084f58c4c04/figures/flood%20risk%20assessment.png)
