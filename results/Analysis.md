@@ -30,7 +30,8 @@ As seen the drop of backscatter intensity from pre to post.
 
 
 **Flood Assessment**
-floodwater covers roughly 10–30% of an image, one might set the threshold at the 10th–30th percentile of the backscatter distribution, effectively flagging the darkest fraction as flooded.
+
+Floodwater covers roughly 10–30% of an image, one might set the threshold at the 10th–30th percentile of the backscatter distribution, effectively flagging the darkest fraction as flooded.
 
 
 ![image alt](https://github.com/KarnakOza/Flood_Analysis/blob/3f1c74cd8e03a9c44237fea677a9f084f58c4c04/figures/flood%20risk%20assessment.png)
