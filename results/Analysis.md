@@ -12,3 +12,14 @@
 As seen the drop of backscatter intensity from pre to post.
 
 ![image alt](https://github.com/KarnakOza/Flood_Analysis/blob/0e0c34c45510b6919dab109c573988562167e109/figures/backscatter_histogram_linear.png)
+
+
+**VV + VH Polarization**
+- VV - Sensitive to open water (specular reflection).
+- VH - Detects flooded vegetation (volume scattering).
+
+# Practical Implications
+
+•	Post-flood backscatter suppression: VV dropped by 6.4 dB, VH by 5.6 dB, consistent with specular reflection over water.
+
+•	Cross-pol ratio increase: VH/VV rose from 0.32 → 0.41, suggesting double-bounce scattering (e.g., flooded vegetation).
