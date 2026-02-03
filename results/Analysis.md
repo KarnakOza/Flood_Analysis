@@ -23,3 +23,6 @@ As seen the drop of backscatter intensity from pre to post.
 •	Post-flood backscatter suppression: VV dropped by 6.4 dB, VH by 5.6 dB, consistent with specular reflection over water.
 
 •	Cross-pol ratio increase: VH/VV rose from 0.32 → 0.41, suggesting double-bounce scattering (e.g., flooded vegetation).
+
+
+![image alt](https://github.com/KarnakOza/Flood_Analysis/blob/c7f77367419c9ef70c49723c56df8c8d31caacd9/figures/segmentation.png) 
