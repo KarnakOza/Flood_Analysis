@@ -16,7 +16,7 @@
 - Location: Tripura, India
 - Geographic Extent: 
 - Terrains: Hilly Region and Built-up Region
-- 
+  
 # Auxillary Data
 - DEM: SRTM 30 m
 - Land Mask: Global Land Mask
