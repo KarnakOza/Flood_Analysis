@@ -38,11 +38,14 @@ Floodwater covers roughly 10–30% of an image, one might set the threshold at t
 
 
 
-Variation and Change of Water from August to September 2024 
-1. 
+Variation and Change of Water from August to September 2024.
+
 
 ![image alt](https://github.com/KarnakOza/Flood_Analysis/blob/70b9a9556182a844aeaa5d2a80a7ffdf39f176e0/figures/A_QGIS.png)
 
-2.
 
 ![image alt](https://github.com/KarnakOza/Flood_Analysis/blob/70b9a9556182a844aeaa5d2a80a7ffdf39f176e0/figures/B_QGIS.png)
+
+![image alt](https://github.com/KarnakOza/Flood_Analysis/blob/0dd0d00c90ad2e4adfb36a3b352cde9754b12338/figures/C_QGIS.png)
+
+![image alt](https://github.com/KarnakOza/Flood_Analysis/blob/0dd0d00c90ad2e4adfb36a3b352cde9754b12338/figures/D_QGIS.png)
