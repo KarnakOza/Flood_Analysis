@@ -27,4 +27,36 @@ width = 12
 height = 12
 plt.figure(figsize=(width, height))
 imgplot = plt.imshow(band_data, cmap=plt.cm.binary, vmin=vmin, vmax=vmax)
+
+
+##Applying Orbit File 
+parameters = HashMap()
+GPF.getDefaultInstance().getOperatorSpiRegistry().loadOperatorSpis()
+parameters.put('orbitType', 'Sentinel Precise (Auto Download)')
+parameters.put('polyDegree', '3')
+parameters.put('continueOnFail', 'false')
+apply_orbit_file = GPF.createProduct('Apply-Orbit-File', parameters, product)
 return imgplot
+
+##Subsetting the product by utilizing the shp of the city if it falls under AOI or merging and clipping of shp.
+##Skipable task
+
+r = shapefile.Reader("data/island_boundary2.shp")
+g=[]
+for s in r.shapes():
+g.append(pygeoif.geometry.as_shape(s))
+m = pygeoif.MultiPoint(g)
+wkt = str(m.wkt).replace("MULTIPOINT", "POLYGON(") + ")"
+SubsetOp = snappy.jpy.get_type('org.esa.snap.core.gpf.common.SubsetOp')
+bounding_wkt = wkt
+geometry = WKTReader().read(bounding_wkt)
+HashMap = snappy.jpy.get_type('java.util.HashMap')
+GPF.getDefaultInstance().getOperatorSpiRegistry().loadOperatorSpis()
+parameters = HashMap()
+parameters.put('copyMetadata', True)
+parameters.put('geoRegion', geometry)
+product_subset = snappy.GPF.createProduct('Subset', parameters,
+apply_orbit_file)
+
+
+
