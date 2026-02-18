@@ -15,3 +15,4 @@
 
 
 ### In case an SLC product
+**Effects of the backscatter captured from water will be far higher and in dense proportions from GRDH product making it harder to classify by Coherence change makes it effective in another way possible**
