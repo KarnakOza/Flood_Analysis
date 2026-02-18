@@ -37,6 +37,15 @@ This Repository documents a methodology for **automated flood mapping** using **
 
 
 **Contributions: Adapted esa_snappy workflow for this analysis**
+
+## Methodology Note
+This project applies established SAR/InSAR processing workflows using ESA SNAP 
+and MintPy-based analysis. Processing parameters, study area selection, 
+interpretation, and visualization were performed by the author.
+
+
+
+
 - **Elevation-risk integration** (25% of tripura < 30m = high vulnerability)
 
 ---
