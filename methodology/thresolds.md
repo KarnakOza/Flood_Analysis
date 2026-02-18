@@ -12,3 +12,6 @@
 
 ### 3. VH < -21.5 dB
 - Use Case: Detects smooth open water where VH is minimal.
+
+
+### In case an SLC product
