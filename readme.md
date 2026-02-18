@@ -34,6 +34,9 @@ This Repository documents a methodology for **automated flood mapping** using **
 
 - **Unsupervised segmentation** for water-body extraction
 
+
+
+**Contributions: Adapted esa_snappy workflow for this analysis**
 - **Elevation-risk integration** (25% of tripura < 30m = high vulnerability)
 
 ---
